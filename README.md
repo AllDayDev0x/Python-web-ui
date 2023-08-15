@@ -37,13 +37,6 @@ webui.wait()
 
 [More examples](https://github.com/webui-dev/python-webui/tree/main/examples)
 
-## Documentation
-
- - [Online Documentation](https://webui.me/docs/#/python_api)
-
-## CppCon 2019 Presentation
-
-[Borislav Stanimirov](https://ibob.bg/) explained at [C++ Conference 2019 (*YouTube*)](https://www.youtube.com/watch?v=bbbcZd4cuxg) how beneficial it is to use the web browser as GUI.
 
 <!-- <div align="center">
   <a href="https://www.youtube.com/watch?v=bbbcZd4cuxg"><img src="https://img.youtube.com/vi/bbbcZd4cuxg/0.jpg" alt="Embrace Modern Technology: Using HTML 5 for GUI in C++ - Borislav Stanimirov - CppCon 2019"></a>
@@ -121,10 +114,4 @@ Think of WebUI like a WebView controller, but instead of embedding the WebView c
 | Nim | ✔️ | [Nim-WebUI](https://github.com/webui-dev/nim-webui) |
 | Zig | *Not Complete* | [Zig-WebUI](https://github.com/webui-dev/zig-webui) |
 
-### License
 
-> Licensed under MIT License.
-
-### Stargazers
-
-[![Stargazers repo roster for @webui-dev/python-webui](https://reporoster.com/stars/webui-dev/python-webui)](https://github.com/webui-dev/python-webui/stargazers)
